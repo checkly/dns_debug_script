@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "node-dig-dns": "^0.3.3",
+    "nodejs-traceroute": "^2.0.1",
+    "request": "^2.88.2",
+    "request-promise-native": "^1.0.9"
+  }
+}
